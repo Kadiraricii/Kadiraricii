@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-**[🇬🇧 English](#english)** &nbsp;·&nbsp; **[🇹🇷 Türkçe](#türkçe)**
+**[🇬🇧 English](#english)** &nbsp;·&nbsp; **[🇹🇷 Türkçe](#turkce)**
 
 </div>
 
@@ -152,13 +152,13 @@ SwiftUI apps with HealthKit, Live Activities, and the kind of platform integrati
 
 <div align="center">
 
-**[↑ English](#english)** &nbsp;·&nbsp; **[🇹🇷 Türkçe ↓](#türkçe)**
+**[↑ English](#english)** &nbsp;·&nbsp; **[🇹🇷 Türkçe ↓](#turkce)**
 
 ---
 
 </div>
 
-<a id="türkçe"></a>
+<a id="turkce"></a>
 <div align="center">
 
 ## 🇹🇷 Türkçe
@@ -225,7 +225,7 @@ HealthKit, Live Activities ve yalnızca gerçekten App Store'a çıkınca ortaya
 
 <div align="center">
 
-**[↑ Türkçe](#türkçe)** &nbsp;·&nbsp; **[🇬🇧 English ↑](#english)**
+**[↑ Türkçe](#turkce)** &nbsp;·&nbsp; **[🇬🇧 English ↑](#english)**
 
 </div>
 
