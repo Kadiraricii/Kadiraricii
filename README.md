@@ -12,9 +12,20 @@
 <a href="mailto:mehmetkadira0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Kadiraricii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<br/><br/>
+
+**[🇬🇧 English](#english)** &nbsp;·&nbsp; **[🇹🇷 Türkçe](#türkçe)**
+
 </div>
 
 <br/>
+
+<a id="english"></a>
+<div align="center">
+
+## 🇬🇧 English
+
+</div>
 
 ### whoami
 
@@ -134,6 +145,87 @@ SwiftUI apps with HealthKit, Live Activities, and the kind of platform integrati
 🎓 Finishing dual-major degrees in **Information Security** & **Computer Programming** at İstinye University
 🔭 Building security-first systems in Rust and Python, with a growing focus on applied network security
 🤝 Open to Information Security / Software Development roles where both halves of that are actually needed
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**[↑ English](#english)** &nbsp;·&nbsp; **[🇹🇷 Türkçe ↓](#türkçe)**
+
+---
+
+</div>
+
+<a id="türkçe"></a>
+<div align="center">
+
+## 🇹🇷 Türkçe
+
+</div>
+
+### whoami
+
+```
+> Bilgi Güvenliği & Yazılım Geliştirme — İstinye Üniversitesi (çift anadal, 2026 mezunu)
+> Ham bir fikri alıp gerçekten production'da çalışan bir şeye dönüştürmekten keyif alıyorum
+> Üniversite boyunca 30'dan fazla açık kaynak repo yayınladım — birkaçının gerçek kullanıcısı var
+> İlgi alanım: sistem kurmakla, o sistemin tam olarak nasıl kırılacağını bilmek arasındaki kesişim
+```
+
+<br/>
+
+### İlgi alanları
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🦀 Sistem & Ağ Güvenliği**
+Gerçek zamanlı trafik izleme, ayrıcalık ayrımı yapılmış servisler, hash-chain audit log'lar ve işi savsaklamayan (Argon2id, JWT+TOTP, mTLS) kimlik doğrulama altyapısı için Rust araçları.
+
+</td>
+<td valign="top" width="50%">
+
+**🛡️ Saldırı / Savunma Güvenliği**
+Dinamik enstrümantasyon (Frida), tersine mühendislik, IDS/IPS desen tespiti — açığı başkası bulmadan önce bulmak.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**⚡ Full-Stack Ürün Mühendisliği**
+Regex tahminleri değil, AST seviyesinde doğruluk (Tree-sitter) üzerine kurulu FastAPI/React sistemleri — güvenlik katmanı sonradan eklenen değil, baştan tasarlanan bir özellik.
+
+</td>
+<td valign="top" width="50%">
+
+**📱 Native Mobil**
+HealthKit, Live Activities ve yalnızca gerçekten App Store'a çıkınca ortaya çıkan türden platform entegrasyonlarına sahip SwiftUI uygulamaları.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### Şu anda
+
+🎓 İstinye Üniversitesi'nde **Bilgi Güvenliği** & **Bilgisayar Programcılığı** çift anadalını tamamlıyorum
+🔭 Rust ve Python'da güvenlik odaklı sistemler geliştiriyorum, giderek ağ güvenliğine daha çok odaklanıyorum
+🤝 Hem güvenlik hem yazılım geliştirme tarafının birlikte arandığı pozisyonlara açığım
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**[↑ Türkçe](#türkçe)** &nbsp;·&nbsp; **[🇬🇧 English ↑](#english)**
 
 </div>
 
